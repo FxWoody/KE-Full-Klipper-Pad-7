@@ -6,6 +6,8 @@
 ># <ins>****  WILL NOT WORK ON A NEBULA PAD ****</ins>
 Some MACROS might not work on your setup if you are running on the NebulaPAD ROOTED since it uses a DIRTY-KLIPPER version that is missing important files for BEACON to install
 
+[LINK TO MY YOUTUBE ON HOW IT RUNS](https://youtu.be/mpI4NBXCfaI?si=CKlKJCg9Sx1YLDBo)
+
 ## First Step: Install BEACON in SSH
 ```cd ~
 git clone https://github.com/beacon3d/beacon_klipper.git
@@ -16,21 +18,17 @@ git clone https://github.com/beacon3d/beacon_klipper.git
 >Remove the BlTouch and install the BEACON support using the same screws
 
 >Run USB cable along the MAIN ribbon cable and connect to your Pad7
+>
+![](https://github.com/FxWoody/KE-Full-Klipper-Pad-7/blob/main/20240822_090217.jpg)
+![](https://github.com/FxWoody/KE-Full-Klipper-Pad-7/blob/main/20240822_093128.jpg)
 
-## This heading is not unique in the file
+## I am using KAMP so you need to install it on your printer
 
-TEXT 1
-
-## This heading is not unique in the file
-
-TEXT 2
+[Klipper-Adaptive-Meshing-Purging](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)
 
 # Links to the external
 
 Link to BEACON support: [Printables](https://www.printables.com/model/1290703-creality-ke-beacon-support).
 
-Link to the helpful section: [Link Text](#thisll-be-a-helpful-section-about-the-greek-letter-Θ).
+Link to BEACON install: [Beacon](https://docs.beacon3d.com/quickstart/).
 
-Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file).
-
-Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
